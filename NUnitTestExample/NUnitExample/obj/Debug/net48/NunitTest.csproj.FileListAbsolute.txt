@@ -1,0 +1,16 @@
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\nunit.engine.dll
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\NunitTest.dll
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\NunitTest.pdb
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\bin\Debug\net48\nunit.framework.dll
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.csproj.AssemblyReference.cache
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.AssemblyInfoInputs.cache
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.AssemblyInfo.cs
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.csproj.CoreCompileInputs.cache
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.csproj.CopyComplete
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.dll
+C:\Users\d.brandao\source\repos\NUnitTestExample\NUnitExample\obj\Debug\net48\NunitTest.pdb
